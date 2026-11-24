@@ -1,0 +1,68 @@
+{
+  "hotkey": "f",
+  "slots": [
+    {
+      "key": "1",
+      "delay_ms": 10,
+      "clicks": 2,
+      "interval_ms": 10,
+      "enabled": true
+    },
+    {
+      "key": "2",
+      "delay_ms": 10,
+      "clicks": 2,
+      "interval_ms": 10,
+      "enabled": true
+    },
+    {
+      "key": "3",
+      "delay_ms": 10,
+      "clicks": 2,
+      "interval_ms": 10,
+      "enabled": true
+    },
+    {
+      "key": "4",
+      "delay_ms": 10,
+      "clicks": 2,
+      "interval_ms": 10,
+      "enabled": true
+    },
+    {
+      "key": "5",
+      "delay_ms": 10,
+      "clicks": 2,
+      "interval_ms": 10,
+      "enabled": true
+    },
+    {
+      "key": "6",
+      "delay_ms": 10,
+      "clicks": 2,
+      "interval_ms": 10,
+      "enabled": true
+    },
+    {
+      "key": "7",
+      "delay_ms": 10,
+      "clicks": 2,
+      "interval_ms": 10,
+      "enabled": true
+    },
+    {
+      "key": "8",
+      "delay_ms": 10,
+      "clicks": 2,
+      "interval_ms": 10,
+      "enabled": true
+    },
+    {
+      "key": "9",
+      "delay_ms": 10,
+      "clicks": 2,
+      "interval_ms": 10,
+      "enabled": true
+    }
+  ]
+}
